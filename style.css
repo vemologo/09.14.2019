@@ -1,0 +1,228 @@
+.style{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+
+text-align:center;
+padding: 185px 0px;
+}
+
+*{padding: 0%;
+margin: 0%;
+
+}
+
+body{
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.style h1{
+
+font-size: 70px;
+columns: #212529;
+
+}
+
+.style p{
+font-style: italic;
+font-weight: 900;
+font-size: 25px;
+columns: #212529;
+padding: 20px 0 50px 0;
+
+}
+
+.style button, .features button{
+    border-radius: 5px;
+    padding: 20px 40px;
+    border:none;
+    color:white;
+    background:#1d809f;
+    font-weight: 800;
+    transition: background 0.3s;
+    
+}
+
+.style button:hover {
+
+    background-color: #0d4455;
+    
+        
+}
+
+.features{
+
+text-align: center;
+padding:80px 0;
+
+}
+
+.features h2{
+
+    font-size: 30px;
+
+    
+}
+.features p{
+    font-size: 19px;
+    padding: 20px 0 40px 0px;
+}
+.features button{
+
+
+    background-color: black;
+
+}
+.features button:hover{
+
+background: #4f7e7e;
+
+}
+
+.services{
+
+    padding: 50px 0;
+    background-color: #1d809f;
+    
+
+}
+.services .text-holder{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.services .text-holder h4{
+    color: #ecb807;
+
+
+}
+.services .text-holder h2{
+    
+    color: white;
+    font-size: 35px; 
+    font-weight: bold;
+
+}
+.respons{
+    color: white;
+    width: 100%;
+    height: 200px;
+}
+
+.wrapper{
+
+    
+    width: 80%;
+    height: 200px;
+    margin: auto;
+}
+
+    
+
+
+.icon i{
+
+    font-size: 30px;
+    
+    color: #0d4455
+
+}
+.icon{
+
+    background: white;
+    width: max-content;
+    padding: 20px 25px;
+    border-radius: 50%;
+    margin: auto;
+    
+
+
+}
+
+.icon-holder{
+    float: left;
+    width: 25%;
+    text-align: center;
+
+}
+.icon-holder h3{
+    padding: 15px 0;
+}
+
+.port-header {
+    text-align: center;
+    margin: 45px 0 0 ;
+}
+.port-header p{
+
+    color: gold;
+
+}
+
+.port-header h3{
+
+    font-size: 3rem;
+
+}
+.port-item{
+
+    width: 50%;
+    box-sizing: border-box;
+     float: left;
+    background: azure;
+    padding: 2rem;
+    color: white;
+ 
+}
+
+
+.port-item:hover{
+
+    transform: scale(.9);
+    transition: 0.3s;
+    filter:grayscale(100%);
+    clip-path: circle(20px);
+        
+}
+
+
+
+.port-text{
+
+    margin-top: 200px;
+
+
+}
+
+.photo1{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-1.jpg);
+
+    background-size: cover;
+    
+
+}
+.photo2{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-2.jpg);
+
+    background-size: cover;
+    
+
+}
+
+.photo3{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-3.jpg);
+    background-size: cover;
+    
+
+
+}
+
+
+.photo4{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/portfolio-4.jpg);
+    background-size: cover;
+    
+}
+
